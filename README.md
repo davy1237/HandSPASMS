@@ -10,3 +10,4 @@ Input: HTTP Requests (presumably from the WAH application)
 
 Output: SPASM alerts, as well as a clear confirmation on the Android phone log
 of the message's send status (IE Sent, Fail due to Bad Reception, etc.)
+# HandSPASMS
